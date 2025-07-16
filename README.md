@@ -17,9 +17,8 @@ I'm a passionate **Front-End Web Developer** dedicated to crafting **clean**, **
 - 🎯 Always goal-driven, detail-oriented, and focused on delivering results  
 - 🤝 Strong communication, collaboration, and long-term client relationships  
 
-### 💼 Experience & Expertise
-
-Over the past few years, I've built **100+ websites** for various clients, ensuring top-notch quality and on-time delivery.
+#💼 Experience & Expertise
+___________________________________________________________________________________________________
 
 ### ⚙️ Tech Stack I Work With:
 - 🌐 **Frontend**: HTML5, CSS3, JavaScript, ReactJS, Tailwind CSS    
@@ -27,6 +26,14 @@ Over the past few years, I've built **100+ websites** for various clients, ensur
 - 🛠️ **Tools**: VS Code, Git & GitHub, Figma, Canva  
 ✨ I believe in **"Code with purpose. Design with passion. Deliver with confidence."**  
 Let’s build something amazing together!
+
+☕ Connect with me!
+_______________________________________________________________________________________________
+<img width="73" height="72" alt="image" src="https://github.com/user-attachments/assets/f3bc885e-bd55-4d3f-b117-ab2f1c0bad39" /> , <img width="72" height="72" alt="image" src="https://github.com/user-attachments/assets/b55dcc49-6d51-4e5d-a646-822653b6eaba" />
+
+
+
+
 
 
 
