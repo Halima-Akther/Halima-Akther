@@ -22,18 +22,9 @@ I'm a passionate **Front-End Web Developer** dedicated to crafting **clean**, **
 Over the past few years, I've built **100+ websites** for various clients, ensuring top-notch quality and on-time delivery.
 
 ### ⚙️ Tech Stack I Work With:
-- 🌐 **Frontend**: HTML5, CSS3, JavaScript, ReactJS, Tailwind CSS, Bootstrap  
-- 🧩 **CMS**: WordPress (Theme & Plugin Development)  
-- 💾 **Backend**: PHP, MySQL  
+- 🌐 **Frontend**: HTML5, CSS3, JavaScript, ReactJS, Tailwind CSS    
+- 💾 **Backend**:  MySQL  
 - 🛠️ **Tools**: VS Code, Git & GitHub, Figma, Canva  
-
-### 🔍 Currently Exploring:
-- ⚡ React Hooks & Context API  
-- 🧪 Next.js for dynamic front-end  
-- 🔄 GitHub Actions for automation  
-
----
-
 ✨ I believe in **"Code with purpose. Design with passion. Deliver with confidence."**  
 Let’s build something amazing together!
 
