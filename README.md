@@ -9,7 +9,7 @@
 <!-- Animated waving name banner with original gradient + twinkling -->
 <p align="center" style="margin-top: -20px;">
   <img 
-    src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=%20Halima%20Hossen%20Akther&fontSize=54&fontWeight=900&animation=twinkling" 
+    src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=%20Halima%20%20Akther&fontSize=54&fontWeight=900&animation=twinkling" 
     alt="Animated Waving Name Banner" 
     style="opacity: 0.9;" 
   />
