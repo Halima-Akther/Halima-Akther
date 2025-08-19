@@ -5,21 +5,20 @@
 <!-- Animated typing roles below name -->
 <p align="center" style="margin-top: -15px;">
   <img 
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=6000&pause=1200&color=7FFFD4,58A6FF&center=true&vCenter=true&width=700&lines=Python+Developer|Full+Stack+Developer" 
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=6000&pause=1200&color=7FFFD4,58A6FF&center=true&vCenter=true&width=700&lines=Python+Developer|Full+Stack+Developer" 
     alt="Dynamic Role Typing" 
     style="display: inline-block;" 
   />
 </p>
 
-
 ---
 
 <!-- About Me -->
 ## 👨‍💻 About Me  
-🚀 Exploring code, creating impactful projects, and learning every day.  
-💡 Currently focusing on **Python, JavaScript, React & Node.js**  
-🌱 Passionate about building **real-world projects**  
-🤝 Open to collaboration and contributing to open source  
+A dedicated developer with a passion for building efficient, scalable, and impactful solutions.  
+💡 Skilled in **Python, JavaScript, React & Node.js**  
+🌱 Continuously learning new technologies and best practices  
+🤝 Open to collaboration, open-source contribution, and professional growth  
 
 ---
 
@@ -27,33 +26,44 @@
 ## ⚡ Tech Skills  
 
 <p align="center">
-  <span style="display:inline-block; margin:15px; text-align:center; padding:10px; border-radius:10px; box-shadow: 0px 4px 10px rgba(0,0,0,0.1);">
+  <span style="display:inline-block; margin:10px; text-align:center; padding:10px 15px; border-radius:12px; box-shadow: 0px 4px 15px rgba(0,0,0,0.1);">
     <img alt="Python" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50"/><br><b>Python</b>
   </span>
-  <span style="display:inline-block; margin:15px; text-align:center; padding:10px; border-radius:10px; box-shadow: 0px 4px 10px rgba(0,0,0,0.1);">
+  <span style="display:inline-block; margin:10px; text-align:center; padding:10px 15px; border-radius:12px; box-shadow: 0px 4px 15px rgba(0,0,0,0.1);">
     <img alt="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50"/><br><b>JavaScript</b>
   </span>
-  <span style="display:inline-block; margin:15px; text-align:center; padding:10px; border-radius:10px; box-shadow: 0px 4px 10px rgba(0,0,0,0.1);">
+  <span style="display:inline-block; margin:10px; text-align:center; padding:10px 15px; border-radius:12px; box-shadow: 0px 4px 15px rgba(0,0,0,0.1);">
     <img alt="React" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50"/><br><b>React</b>
   </span>
-  <span style="display:inline-block; margin:15px; text-align:center; padding:10px; border-radius:10px; box-shadow: 0px 4px 10px rgba(0,0,0,0.1);">
+  <span style="display:inline-block; margin:10px; text-align:center; padding:10px 15px; border-radius:12px; box-shadow: 0px 4px 15px rgba(0,0,0,0.1);">
     <img alt="Node.js" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50"/><br><b>Node.js</b>
   </span>
-  <span style="display:inline-block; margin:15px; text-align:center; padding:10px; border-radius:10px; box-shadow: 0px 4px 10px rgba(0,0,0,0.1);">
+  <span style="display:inline-block; margin:10px; text-align:center; padding:10px 15px; border-radius:12px; box-shadow: 0px 4px 15px rgba(0,0,0,0.1);">
     <img alt="HTML5" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50"/><br><b>HTML5</b>
   </span>
-  <span style="display:inline-block; margin:15px; text-align:center; padding:10px; border-radius:10px; box-shadow: 0px 4px 10px rgba(0,0,0,0.1);">
+  <span style="display:inline-block; margin:10px; text-align:center; padding:10px 15px; border-radius:12px; box-shadow: 0px 4px 15px rgba(0,0,0,0.1);">
     <img alt="CSS3" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50"/><br><b>CSS3</b>
   </span>
-  <span style="display:inline-block; margin:15px; text-align:center; padding:10px; border-radius:10px; box-shadow: 0px 4px 10px rgba(0,0,0,0.1);">
+  <span style="display:inline-block; margin:10px; text-align:center; padding:10px 15px; border-radius:12px; box-shadow: 0px 4px 15px rgba(0,0,0,0.1);">
     <img alt="MySQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50"/><br><b>MySQL</b>
   </span>
-  <span style="display:inline-block; margin:15px; text-align:center; padding:10px; border-radius:10px; box-shadow: 0px 4px 10px rgba(0,0,0,0.1);">
+  <span style="display:inline-block; margin:10px; text-align:center; padding:10px 15px; border-radius:12px; box-shadow: 0px 4px 15px rgba(0,0,0,0.1);">
     <img alt="Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50"/><br><b>Git</b>
   </span>
-  <span style="display:inline-block; margin:15px; text-align:center; padding:10px; border-radius:10px; box-shadow: 0px 4px 10px rgba(0,0,0,0.1);">
+  <span style="display:inline-block; margin:10px; text-align:center; padding:10px 15px; border-radius:12px; box-shadow: 0px 4px 15px rgba(0,0,0,0.1);">
     <img alt="GitHub" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50"/><br><b>GitHub</b>
   </span>
+</p>
+
+---
+
+<!-- Projects Section -->
+## 🌱 Featured Projects  
+<p align="center">
+- 🛒 **E-commerce Platform** – Minimal online shopping solution  
+- 🏥 **Hospital Management System** – Manage patients, doctors & billing  
+- 📦 **Inventory & Billing System** – Practical project for business use  
+- 🌐 **Portfolio Website** – Showcase of my work and projects  
 </p>
 
 ---
@@ -68,15 +78,6 @@
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Arafath-Abir&theme=react-dark&hide_border=true" />
 </p>
-
----
-
-<!-- Projects Section -->
-## 🌱 Featured Projects  
-- 🛒 **E-commerce Platform** – Minimal online shopping solution  
-- 🏥 **Hospital Management System** – Manage patients, doctors & billing  
-- 📦 **Inventory & Billing System** – Practical project for business use  
-- 🌐 **Portfolio Website** – Showcase of my work and projects  
 
 ---
 
