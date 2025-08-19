@@ -1,8 +1,10 @@
-<!-- Hero Section -->
+<!-- Hero Section with Typing Animation -->
 <div align="center">
 
 # 👋 Hi, I'm **Abir**  
-### Passionate Learner | Developer | Tech Enthusiast
+<h3>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=500&color=4CAF50&center=true&vCenter=true&width=600&lines=Passionate+Learner;Developer;Tech+Enthusiast" />
+</h3>
 
 </div>
 
@@ -17,35 +19,36 @@
 
 ---
 
-<!-- Skills Section with Logo + Text -->
-## ⚡ Skills & Tools  
+<!-- Professional Tech Skills Section -->
+## ⚡ Tech Skills  
+
 <p align="center">
-  <span style="display:inline-block; margin:10px; text-align:center;">
-    <img alt="Python" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50"/><br>Python
+  <span style="display:inline-block; margin:15px; text-align:center; padding:10px; border-radius:10px; box-shadow: 0px 4px 10px rgba(0,0,0,0.1);">
+    <img alt="Python" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50"/><br><b>Python</b>
   </span>
-  <span style="display:inline-block; margin:10px; text-align:center;">
-    <img alt="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50"/><br>JavaScript
+  <span style="display:inline-block; margin:15px; text-align:center; padding:10px; border-radius:10px; box-shadow: 0px 4px 10px rgba(0,0,0,0.1);">
+    <img alt="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50"/><br><b>JavaScript</b>
   </span>
-  <span style="display:inline-block; margin:10px; text-align:center;">
-    <img alt="React" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50"/><br>React
+  <span style="display:inline-block; margin:15px; text-align:center; padding:10px; border-radius:10px; box-shadow: 0px 4px 10px rgba(0,0,0,0.1);">
+    <img alt="React" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50"/><br><b>React</b>
   </span>
-  <span style="display:inline-block; margin:10px; text-align:center;">
-    <img alt="Node.js" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50"/><br>Node.js
+  <span style="display:inline-block; margin:15px; text-align:center; padding:10px; border-radius:10px; box-shadow: 0px 4px 10px rgba(0,0,0,0.1);">
+    <img alt="Node.js" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50"/><br><b>Node.js</b>
   </span>
-  <span style="display:inline-block; margin:10px; text-align:center;">
-    <img alt="HTML5" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50"/><br>HTML5
+  <span style="display:inline-block; margin:15px; text-align:center; padding:10px; border-radius:10px; box-shadow: 0px 4px 10px rgba(0,0,0,0.1);">
+    <img alt="HTML5" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50"/><br><b>HTML5</b>
   </span>
-  <span style="display:inline-block; margin:10px; text-align:center;">
-    <img alt="CSS3" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50"/><br>CSS3
+  <span style="display:inline-block; margin:15px; text-align:center; padding:10px; border-radius:10px; box-shadow: 0px 4px 10px rgba(0,0,0,0.1);">
+    <img alt="CSS3" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50"/><br><b>CSS3</b>
   </span>
-  <span style="display:inline-block; margin:10px; text-align:center;">
-    <img alt="MySQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50"/><br>MySQL
+  <span style="display:inline-block; margin:15px; text-align:center; padding:10px; border-radius:10px; box-shadow: 0px 4px 10px rgba(0,0,0,0.1);">
+    <img alt="MySQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50"/><br><b>MySQL</b>
   </span>
-  <span style="display:inline-block; margin:10px; text-align:center;">
-    <img alt="Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50"/><br>Git
+  <span style="display:inline-block; margin:15px; text-align:center; padding:10px; border-radius:10px; box-shadow: 0px 4px 10px rgba(0,0,0,0.1);">
+    <img alt="Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50"/><br><b>Git</b>
   </span>
-  <span style="display:inline-block; margin:10px; text-align:center;">
-    <img alt="GitHub" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50"/><br>GitHub
+  <span style="display:inline-block; margin:15px; text-align:center; padding:10px; border-radius:10px; box-shadow: 0px 4px 10px rgba(0,0,0,0.1);">
+    <img alt="GitHub" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50"/><br><b>GitHub</b>
   </span>
 </p>
 
