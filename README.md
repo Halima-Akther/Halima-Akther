@@ -18,7 +18,7 @@
 <!-- Animated typing roles below name -->
 <p align="center" style="margin-top: -15px;">
   <img 
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=6000&pause=1200&color=7FFFD4,58A6FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer|Python Django+Developer" 
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=6000&pause=1200&color=7FFFD4,58A6FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer|Python+Django+Developer" 
     alt="Dynamic Role Typing" 
     style="display: inline-block;" 
   />
