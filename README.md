@@ -2,7 +2,7 @@
 <div align="center">
 
 # 👋 Hi, I'm **Abir**  
-### <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2500&pause=1200&color=4CAF50&center=true&vCenter=true&width=600&lines=Passionate+Learner;Developer;Tech+Enthusiast" />
+### Passionate Learner | Developer | Tech Enthusiast
 
 </div>
 
@@ -20,15 +20,33 @@
 <!-- Skills Section with Logo + Text -->
 ## ⚡ Skills & Tools  
 <p align="center">
-  <img alt="Python" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/> Python &nbsp;&nbsp;
-  <img alt="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/> JavaScript &nbsp;&nbsp;
-  <img alt="React" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40"/> React &nbsp;&nbsp;
-  <img alt="Node.js" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40"/> Node.js &nbsp;&nbsp;
-  <img alt="HTML5" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/> HTML5 &nbsp;&nbsp;
-  <img alt="CSS3" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/> CSS3 &nbsp;&nbsp;
-  <img alt="MySQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40"/> MySQL &nbsp;&nbsp;
-  <img alt="Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/> Git &nbsp;&nbsp;
-  <img alt="GitHub" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40"/> GitHub &nbsp;&nbsp;
+  <span style="display:inline-block; margin:10px; text-align:center;">
+    <img alt="Python" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50"/><br>Python
+  </span>
+  <span style="display:inline-block; margin:10px; text-align:center;">
+    <img alt="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50"/><br>JavaScript
+  </span>
+  <span style="display:inline-block; margin:10px; text-align:center;">
+    <img alt="React" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50"/><br>React
+  </span>
+  <span style="display:inline-block; margin:10px; text-align:center;">
+    <img alt="Node.js" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50"/><br>Node.js
+  </span>
+  <span style="display:inline-block; margin:10px; text-align:center;">
+    <img alt="HTML5" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50"/><br>HTML5
+  </span>
+  <span style="display:inline-block; margin:10px; text-align:center;">
+    <img alt="CSS3" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50"/><br>CSS3
+  </span>
+  <span style="display:inline-block; margin:10px; text-align:center;">
+    <img alt="MySQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50"/><br>MySQL
+  </span>
+  <span style="display:inline-block; margin:10px; text-align:center;">
+    <img alt="Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50"/><br>Git
+  </span>
+  <span style="display:inline-block; margin:10px; text-align:center;">
+    <img alt="GitHub" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50"/><br>GitHub
+  </span>
 </p>
 
 ---
