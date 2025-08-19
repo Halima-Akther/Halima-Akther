@@ -2,9 +2,7 @@
 <div align="center">
 
 # 👋 Hi, I'm **Abir**  
-### Passionate Learner | Developer | Tech Enthusiast  
-
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2500&pause=1200&color=4CAF50&center=true&vCenter=true&width=600&lines=Exploring+Code+%26+Creating+Impact;Building+Projects+that+Matter;Always+Learning+and+Growing)
+### <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2500&pause=1200&color=4CAF50&center=true&vCenter=true&width=600&lines=Passionate+Learner;Developer;Tech+Enthusiast" />
 
 </div>
 
@@ -19,10 +17,18 @@
 
 ---
 
-<!-- Skills Section -->
+<!-- Skills Section with Logo + Text -->
 ## ⚡ Skills & Tools  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,html,css,react,nodejs,git,github,mysql,vscode,figma,express&theme=dark" />
+  <img alt="Python" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/> Python &nbsp;&nbsp;
+  <img alt="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/> JavaScript &nbsp;&nbsp;
+  <img alt="React" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40"/> React &nbsp;&nbsp;
+  <img alt="Node.js" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40"/> Node.js &nbsp;&nbsp;
+  <img alt="HTML5" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/> HTML5 &nbsp;&nbsp;
+  <img alt="CSS3" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/> CSS3 &nbsp;&nbsp;
+  <img alt="MySQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40"/> MySQL &nbsp;&nbsp;
+  <img alt="Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/> Git &nbsp;&nbsp;
+  <img alt="GitHub" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40"/> GitHub &nbsp;&nbsp;
 </p>
 
 ---
