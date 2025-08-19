@@ -1,4 +1,4 @@
-<!-- Animated typing "Hi there, I am," above waving banner -->
+<!-- Animated typing "Hi there! I am," above waving banner -->
 <p align="center" style="margin-bottom: -10px;">
   <img 
     src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3000&pause=1500&color=3cb3b3&center=true&vCenter=true&width=400&lines=Hi+there,+I+am," 
@@ -9,7 +9,7 @@
 <!-- Animated waving name banner with original gradient + twinkling -->
 <p align="center" style="margin-top: -20px;">
   <img 
-    src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Md%20Arafath%20Hossen%20Abir&fontSize=54&fontWeight=900&animation=twinkling" 
+    src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=%20Halima%20Hossen%20Akther&fontSize=54&fontWeight=900&animation=twinkling" 
     alt="Animated Waving Name Banner" 
     style="opacity: 0.9;" 
   />
