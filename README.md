@@ -1,75 +1,76 @@
-<!-- Big Animated Header -->
+<!-- Banner -->
 <div align="center">
   
-  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=1200&color=00B8D4&center=true&vCenter=true&width=700&lines=Hey+there!+I'm+Arafath+Abir;Passionate+Learner+and+Developer;Always+Exploring+New+Technologies)
-  
+# 🌟 Welcome to My GitHub!  
+**Hi, I’m Arafath Abir** – Developer | Tech Enthusiast | Lifelong Learner  
+
 </div>
 
 ---
 
-<!-- About Me -->
-## 👨‍💻 About Me  
-🔹 Currently learning & building with **Python, JavaScript, and React**  
-🔹 Love working on **real-life impactful projects**  
-🔹 Enthusiastic about **problem-solving & system design**  
-🔹 Open to **collaboration** & contributing to open source  
+<!-- About Me Section -->
+## 👤 About Me  
+💡 Exploring technology and building impactful projects.  
+🎯 Focused on writing clean, efficient, and maintainable code.  
+🌱 Currently learning **React, Node.js, and Advanced Python**.  
+🤝 Love collaborating on **open-source & real-world projects**.  
 
 ---
 
-<!-- Skills Section -->
-## 🛠️ Tech Stack  
+<!-- Skills Section with Cards -->
+## 🛠️ Tech Skills  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,html,css,react,nodejs,express,mysql,git,github,vscode,figma&theme=light" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>  
+  <img src="https://img.shields.io/badge/JavaScript-F7E018?style=for-the-badge&logo=javascript&logoColor=black"/>  
+  <img src="https://img.shields.io/badge/React-61DBFB?style=for-the-badge&logo=react&logoColor=black"/>  
+  <img src="https://img.shields.io/badge/Node.js-3C873A?style=for-the-badge&logo=node.js&logoColor=white"/>  
+  <img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white"/>  
+  <img src="https://img.shields.io/badge/Git-F1502F?style=for-the-badge&logo=git&logoColor=white"/>  
 </p>
 
 ---
 
-<!-- GitHub Stats Section -->
-## 📊 GitHub Analytics  
+<!-- GitHub Stats Section in Card Style -->
+## 📊 GitHub Overview  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Arafath-Abir&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Arafath-Abir&theme=tokyonight&hide_border=true" height="180"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Arafath-Abir&theme=tokyo-night&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Arafath-Abir&show_icons=true&theme=vue&hide_border=true&card_width=400" height="170"/>  
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Arafath-Abir&theme=vue&hide_border=true" height="170"/>
 </p>
 
 ---
 
-<!-- Projects Showcase -->
-## 🚀 Featured Projects  
-🌟 **[E-commerce Platform](#)** – Minimal online shopping solution with cart & checkout  
-🌟 **[Hospital Management System](#)** – Patient, doctor & billing management system  
-🌟 **[Inventory & Billing System](#)** – A practical solution for business stock control  
-🌟 **[Portfolio Website](#)** – A personal website to showcase my works  
+<!-- Highlighted Projects -->
+## 🚀 Highlighted Projects  
+🔹 **Inventory & Billing System** – Business stock & invoice solution  
+🔹 **Hospital Management System** – Patient & doctor management app  
+🔹 **E-commerce Platform** – Modern shopping cart & checkout system  
+🔹 **Portfolio Website** – Showcase of my works & projects  
 
 ---
 
-<!-- Fun Section -->
-## 🎯 Fun Stats  
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Arafath-Abir&label=Profile+Views&color=blue&style=for-the-badge" /> 
-  <img src="https://img.shields.io/github/followers/Arafath-Abir?label=Followers&style=for-the-badge" /> 
-  <img src="https://img.shields.io/github/stars/Arafath-Abir?label=Stars&style=for-the-badge" />
-</p>
+<!-- Achievements Section -->
+## 🏆 Achievements  
+✔️ Active contributor to **open source**  
+✔️ Completed multiple **university projects** successfully  
+✔️ Regular learner on **LeetCode, HackerRank, Codeforces**  
 
 ---
 
-<!-- Contact Section -->
-## 🌐 Connect With Me  
+<!-- Contact Section with Card Buttons -->
+## 🌐 Let’s Connect  
 <p align="center">
   <a href="https://linkedin.com/in/your-link">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:yourmail@example.com">
-    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge"/>
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://github.com/Arafath-Abir">
-    <img src="https://img.shields.io/badge/GitHub-000?logo=github&logoColor=white&style=for-the-badge"/>
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
 
 ---
 
-<p align="center">✨ “Code. Learn. Share. Grow.” ✨</p>
+<p align="center">✨ “Keep building. Keep growing.” ✨</p>
+
