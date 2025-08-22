@@ -73,7 +73,7 @@ My focus is on writing clean, scalable, and efficient code while developing prac
 
 <div align="center">
 
-<a href="mailto:lubnaislam175@gmail.com" target="_blank">
+<a href="mailto:halimaakther3328@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
 </a>
 &nbsp;&nbsp;
