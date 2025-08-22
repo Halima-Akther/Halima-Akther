@@ -12,9 +12,8 @@
 ---
 
 ## 🧑‍💻 About Me  
-I am a passionate developer who loves building **clean, scalable, and user-friendly applications**.  
-Skilled in both **frontend & backend development**, with a strong focus on **problem-solving** and writing **efficient code**.  
-I enjoy contributing to open-source and collaborating on impactful projects.  
+I am an aspiring Full Stack Web Developer currently learning and building projects with Python, Django, PostgreSQL, and REST APIs.
+My focus is on writing clean, scalable, and efficient code while developing practical, real-world applications.
 
 ---
 
