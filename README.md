@@ -35,16 +35,18 @@ My focus is on writing clean, scalable, and efficient code while developing prac
 
 ## 📌 Featured Projects  
 
-<div align="center">
+- [**Organikaon**](https://github.com/yourusername/organika)  
+  🛒 Modern **E-commerce platform** with clean UI & backend integration.  
+  **Technologies Used:** HTML5 & CSS3 • TailwindCSS (Custom theme) • JavaScript (Vanilla) • LocalStorage API • Firebase Authentication & Firestore • Responsive Web Design  
 
-### 🔹 [Organika](https://github.com/yourusername/organika)  
-🛒 **E-commerce platform** with modern UI & backend integration.  
-`React` • `Node.js` • `MongoDB`  
+- [**Currency Converter**](https://github.com/yourusername/python_currency_converter_)  
+  💱 A **lightweight Python app** to convert currencies in real-time.  
+  **Technologies Used:** Python  
 
----
+- [**Hospital Management System**](https://github.com/yourusername/hospital-management)  
+  🏥 **Management system** for patients, staff & appointments.  
+  **Technologies Used:** Django • MySQL  
 
-</div>
----
 
 ## 📊 GitHub Stats  
 
