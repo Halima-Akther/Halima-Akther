@@ -44,16 +44,6 @@ I enjoy contributing to open-source and collaborating on impactful projects.
 
 ---
 
-### 🔹 [Currency Converter](https://github.com/yourusername/python_currency_converter_)  
-💱 A **powerful yet simple Python-based currency converter app**.  
-`Python`  
-
----
-
-### 🔹 [Hospital Management System](https://github.com/yourusername/hospital-management)  
-🏥 **End-to-end system** for managing patients, staff & appointments.  
-`Django` • `MySQL`  
-
 </div>
 ---
 
