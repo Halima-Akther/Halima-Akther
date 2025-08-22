@@ -2,7 +2,7 @@
 
 <div align="center">
 
-# 👋 Hi, I'm **Halima Akther**
+# Hi, I'm **Halima Akther 👋**
 
 <!-- Typing Effect -->
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1200&color=3CB3B3&center=true&vCenter=true&width=500&lines=Software+Developer;Problem+Solver;Tech+Enthusiast;Open+Source+Contributor" alt="Typing SVG" />
@@ -62,14 +62,14 @@ My focus is on writing clean, scalable, and efficient code while developing prac
 
 ---
 
-## 🌐 Connect with Me  
+## 🌐 Contact With Me  
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white)](https://yourportfolio.com)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourusername)  
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yourname@gmail.com)  
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lubnaislam175@gmail.com)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/halima-akther1/)  
 
 </div>
+
 
 ---
