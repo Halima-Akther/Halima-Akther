@@ -22,8 +22,6 @@ I enjoy contributing to open-source and collaborating on impactful projects.
 
 <div align="center">
 
-<!-- Horizontal Badges -->
-  
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000) 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) 
@@ -40,11 +38,21 @@ I enjoy contributing to open-source and collaborating on impactful projects.
 
 <div align="center">
 
-| Project | Description | Tech |
-|---------|-------------|------|
-| [**Organika**](https://github.com/yourusername/organika) | Full-featured E-commerce platform with modern UI & backend integration. | React, Node.js, MongoDB |
-| [**Currency Converter**](https://github.com/yourusername/python_currency_converter_) | A powerful yet simple Python-based currency converter app. | Python |
-| [**Hospital Management System**](https://github.com/yourusername/hospital-management) | End-to-end system for managing patients, staff & appointments. | Django, MySQL |
+### 🔹 [Organika](https://github.com/yourusername/organika)  
+🛒 **E-commerce platform** with modern UI & backend integration.  
+`React` • `Node.js` • `MongoDB`  
+
+---
+
+### 🔹 [Currency Converter](https://github.com/yourusername/python_currency_converter_)  
+💱 A **powerful yet simple Python-based currency converter app**.  
+`Python`  
+
+---
+
+### 🔹 [Hospital Management System](https://github.com/yourusername/hospital-management)  
+🏥 **End-to-end system** for managing patients, staff & appointments.  
+`Django` • `MySQL`  
 
 </div>
 
