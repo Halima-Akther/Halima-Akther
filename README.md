@@ -5,7 +5,7 @@
 # Hi, I'm **Halima Akther 👋**
 
 <!-- Typing Effect -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1200&color=0ABAB5&center=true&vCenter=true&width=600&lines=Python+Developer+%7C+Full+Stack+Web+Application+Developer" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1200&color=0ABAB5&center=true&vCenter=true&width=750&lines=Python+Developer+%7C+Full+Stack+Web+Application+Developer" alt="Typing SVG" />
 
 </div>
 
