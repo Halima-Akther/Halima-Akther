@@ -36,25 +36,18 @@ I enjoy contributing to open-source and collaborating on impactful projects.
 
 ## 📌 Featured Projects  
 
-<div align="center">
+- [**Organika**](https://github.com/yourusername/organika)  
+  🛒 Modern **E-commerce platform** with clean UI & backend integration.  
+  `React` • `Node.js` • `MongoDB`  
 
-### 🔹 [Organika](https://github.com/yourusername/organika)  
-🛒 **E-commerce platform** with modern UI & backend integration.  
-`React` • `Node.js` • `MongoDB`  
+- [**Currency Converter**](https://github.com/yourusername/python_currency_converter_)  
+  💱 A **lightweight Python app** to convert currencies in real-time.  
+  `Python`  
 
----
+- [**Hospital Management System**](https://github.com/yourusername/hospital-management)  
+  🏥 **Management system** for patients, staff & appointments.  
+  `Django` • `MySQL`  
 
-### 🔹 [Currency Converter](https://github.com/yourusername/python_currency_converter_)  
-💱 A **powerful yet simple Python-based currency converter app**.  
-`Python`  
-
----
-
-### 🔹 [Hospital Management System](https://github.com/yourusername/hospital-management)  
-🏥 **End-to-end system** for managing patients, staff & appointments.  
-`Django` • `MySQL`  
-
-</div>
 
 ---
 
