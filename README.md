@@ -37,7 +37,15 @@ My focus is on writing clean, scalable, and efficient code while developing prac
 
 - [**Organikaon**](https://github.com/yourusername/organika)  
   🛒 Modern **E-commerce platform** with clean UI & backend integration.  
-  **Technologies Used:** HTML5 & CSS3 • TailwindCSS (Custom theme) • JavaScript (Vanilla) • LocalStorage API • Firebase Authentication & Firestore • Responsive Web Design  
+
+  **Technologies Used:**  
+  - HTML5 & CSS3  
+  - TailwindCSS (Custom theme configuration)  
+  - JavaScript (Vanilla)  
+  - LocalStorage API  
+  - Firebase Authentication & Firestore  
+  - Responsive Web Design
+
 
 ## 📊 GitHub Stats  
 
