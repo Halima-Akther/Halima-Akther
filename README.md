@@ -1,110 +1,66 @@
-<!-- Hero Section with Typing Animation -->
+<!-- Profile README -->
+
 <div align="center">
 
 # 👋 Hi, I'm **Abir**  
-<!-- Animated typing roles below name -->
-<p align="center" style="margin-top: -15px;">
-  <img 
-    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=6000&pause=1200&color=7FFFD4,58A6FF&center=true&vCenter=true&width=700&lines=Python+Developer|Full+Stack+Developer" 
-    alt="Dynamic Role Typing" 
-    style="display: inline-block;" 
-  />
-</p>
+
+<!-- Typing effect -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1200&color=3cb3b3&center=true&vCenter=true&width=500&lines=Software+Developer;Problem+Solver;Tech+Enthusiast;Open+Source+Contributor" alt="Typing SVG" />
+
+</div>
 
 ---
 
-<!-- About Me -->
-## 👨‍💻 About Me  
-A dedicated developer with a passion for building efficient, scalable, and impactful solutions.  
-💡 Skilled in **Python, JavaScript, React & Node.js**  
-🌱 Continuously learning new technologies and best practices  
-🤝 Open to collaboration, open-source contribution, and professional growth  
+## 🧑‍💻 About Me  
+I’m a passionate developer who loves building **efficient, scalable, and user-friendly applications**.  
+Focused on **clean code**, **problem-solving**, and continuous learning.  
+Always open to collaborating on **exciting projects** and contributing to the tech community.  
 
 ---
 
-<!-- Professional Tech Skills Section -->
-## ⚡ Tech Skills  
+## 🚀 Tech Stack  
 
-<p align="center">
-  <span style="display:inline-block; margin:10px; text-align:center; padding:10px 15px; border-radius:12px; box-shadow: 0px 4px 15px rgba(0,0,0,0.1);">
-    <img alt="Python" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50"/><br><b>Python</b>
-  </span>
-  <span style="display:inline-block; margin:10px; text-align:center; padding:10px 15px; border-radius:12px; box-shadow: 0px 4px 15px rgba(0,0,0,0.1);">
-    <img alt="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50"/><br><b>JavaScript</b>
-  </span>
-  <span style="display:inline-block; margin:10px; text-align:center; padding:10px 15px; border-radius:12px; box-shadow: 0px 4px 15px rgba(0,0,0,0.1);">
-    <img alt="React" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50"/><br><b>React</b>
-  </span>
-  <span style="display:inline-block; margin:10px; text-align:center; padding:10px 15px; border-radius:12px; box-shadow: 0px 4px 15px rgba(0,0,0,0.1);">
-    <img alt="Node.js" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50"/><br><b>Node.js</b>
-  </span>
-  <span style="display:inline-block; margin:10px; text-align:center; padding:10px 15px; border-radius:12px; box-shadow: 0px 4px 15px rgba(0,0,0,0.1);">
-    <img alt="HTML5" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50"/><br><b>HTML5</b>
-  </span>
-  <span style="display:inline-block; margin:10px; text-align:center; padding:10px 15px; border-radius:12px; box-shadow: 0px 4px 15px rgba(0,0,0,0.1);">
-    <img alt="CSS3" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50"/><br><b>CSS3</b>
-  </span>
-  <span style="display:inline-block; margin:10px; text-align:center; padding:10px 15px; border-radius:12px; box-shadow: 0px 4px 15px rgba(0,0,0,0.1);">
-    <img alt="MySQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50"/><br><b>MySQL</b>
-  </span>
-  <span style="display:inline-block; margin:10px; text-align:center; padding:10px 15px; border-radius:12px; box-shadow: 0px 4px 15px rgba(0,0,0,0.1);">
-    <img alt="Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50"/><br><b>Git</b>
-  </span>
-  <span style="display:inline-block; margin:10px; text-align:center; padding:10px 15px; border-radius:12px; box-shadow: 0px 4px 15px rgba(0,0,0,0.1);">
-    <img alt="GitHub" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50"/><br><b>GitHub</b>
-  </span>
-</p>
+<div align="center">
+  
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)  
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript)  
+![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js)  
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)  
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django)  
+![MongoDB](https://img.shields.io/badge/MongoDB-4ea94b?style=for-the-badge&logo=mongodb)  
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql)  
+
+</div>
 
 ---
 
-<!-- Projects Section -->
-## 🌱 Featured Projects  
-<p align="center">
-- 🛒 **E-commerce Platform** – Minimal online shopping solution  
-- 🏥 **Hospital Management System** – Manage patients, doctors & billing  
-- 📦 **Inventory & Billing System** – Practical project for business use  
-- 🌐 **Portfolio Website** – Showcase of my work and projects  
-</p>
+## 📌 Featured Projects  
+
+- 🔹 [**Organika**](https://github.com/yourusername/organika) – E-commerce platform with modern UI & backend integration.  
+- 🔹 [**Python Currency Converter**](https://github.com/yourusername/python_currency_converter_) – Simple yet powerful currency converter app.  
+- 🔹 [**Hospital Management System**](https://github.com/yourusername/hospital-management) – Full-stack system for managing patients, staff, and appointments.  
 
 ---
 
-<!-- GitHub Stats -->
-## 📊 GitHub Analytics  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Arafath-Abir&show_icons=true&theme=radical&hide_border=true" height="180"/>  
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Arafath-Abir&theme=radical&hide_border=true" height="180"/>
-</p>
+## 📈 GitHub Stats  
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Arafath-Abir&theme=react-dark&hide_border=true" />
-</p>
+<div align="center">
+
+![GitHub Streak](https://streak-stats.demolab.com?user=yourusername&theme=tokyonight&hide_border=true)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight&hide_border=true)
+
+</div>
 
 ---
 
-<!-- Fun Stats -->
-## 🎯 Extra Stats  
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Arafath-Abir&label=Profile+Views&color=blue&style=for-the-badge" /> 
-  <img src="https://img.shields.io/github/followers/Arafath-Abir?label=Followers&style=for-the-badge" /> 
-  <img src="https://img.shields.io/github/stars/Arafath-Abir?label=Stars&style=for-the-badge" />
-</p>
+## 🌐 Connect with Me  
+
+<div align="center">
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white)](https://yourportfolio.com)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourusername)  
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yourname@gmail.com)  
+
+</div>
 
 ---
-
-<!-- Contact Section -->
-## 📫 Connect with Me  
-<p align="center">
-  <a href="https://linkedin.com/in/your-link" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:yourmail@example.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://github.com/Arafath-Abir" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-</p>
-
----
-
-<p align="center">✨ “Turning ideas into reality through code.” ✨</p>
