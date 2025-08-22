@@ -4,12 +4,16 @@
 
 # Hi, I'm **Halima Akther 👋**
 
-<!-- Typing Effect -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1200&color=3CB3B3&center=true&vCenter=true&width=500&lines=Software+Developer;Problem+Solver;Tech+Enthusiast;Open+Source+Contributor" alt="Typing SVG" />
+<!-- Typing Effect for specific text -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1200&color=3CB3B3&center=true&vCenter=true&width=500&lines=Python+Developer+%7C+Full+Stack+Web+Application+Developer" alt="Typing SVG" />
 
 </div>
 
 ---
+
+
+---
+
 
 ## 🧑‍💻 About Me  
 I am an aspiring Full Stack Web Developer currently learning and building projects with Python, Django, PostgreSQL, and REST APIs.
