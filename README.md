@@ -1,4 +1,4 @@
-<!-- Minimal & Professional GitHub Profile README -->
+<!-- Hero Section with Proper Typing Effect -->
 
 <div align="center">
 
@@ -11,11 +11,10 @@
 
 ---
 
-## 🧑‍💻 About Me  
 
-I am an aspiring **Full Stack Web Developer** with a focus on **Python, Django, PostgreSQL, and REST APIs**.  
-I enjoy building **scalable web applications**, designing efficient **backend systems**, and exploring **modern frontend tools** to deliver complete solutions.  
-Passionate about continuous learning, problem-solving, and growing into a versatile developer ready for real-world challenges.  
+## 🧑‍💻 About Me  
+I am an aspiring Full Stack Web Developer currently learning and building projects with Python, Django, PostgreSQL, and REST APIs.
+My focus is on writing clean, scalable, and efficient code while developing practical, real-world applications.
 
 ---
 
@@ -36,29 +35,22 @@ Passionate about continuous learning, problem-solving, and growing into a versat
 
 </div>
 
+
 ---
 
 ## 📌 Featured Projects  
 
 - [**Organikaon**](https://github.com/yourusername/organika)  
   🛒 Modern **E-commerce platform** with clean UI & backend integration.  
+
   **Technologies Used:**  
   - HTML5 & CSS3  
   - TailwindCSS (Custom theme configuration)  
   - JavaScript (Vanilla)  
   - LocalStorage API  
   - Firebase Authentication & Firestore  
-  - Responsive Web Design  
+  - Responsive Web Design
 
-- [**Currency Converter**](https://github.com/yourusername/python_currency_converter_)  
-  💱 A **lightweight Python app** to convert currencies in real-time.  
-  **Technologies Used:** Python  
-
-- [**Hospital Management System**](https://github.com/yourusername/hospital-management)  
-  🏥 **Management system** for patients, staff & appointments.  
-  **Technologies Used:** Django • MySQL  
-
----
 
 ## 📊 GitHub Stats  
 
@@ -84,3 +76,7 @@ Passionate about continuous learning, problem-solving, and growing into a versat
 </a>
 
 </div>
+
+
+
+---
