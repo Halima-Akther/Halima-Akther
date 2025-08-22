@@ -12,9 +12,6 @@
 ---
 
 
----
-
-
 ## 🧑‍💻 About Me  
 I am an aspiring Full Stack Web Developer currently learning and building projects with Python, Django, PostgreSQL, and REST APIs.
 My focus is on writing clean, scalable, and efficient code while developing practical, real-world applications.
